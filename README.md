@@ -1,2 +1,2 @@
 # Meus Projetos
- Projeto contendo todos meus pequenos projetos.
+ Repositorio contendo todos os meus pequenos projetos.
