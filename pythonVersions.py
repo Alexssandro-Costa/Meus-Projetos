@@ -1,5 +1,5 @@
 #! pyhon3
-# pythonVersions.py - compara a versões do python utilizada pelo computador
+# pythonVersions.py - compara a versão do python utilizada pelo computador
 # com a versão mais recente encontrada no sítio ‘web’ do python
 
 import sys, requests,bs4
